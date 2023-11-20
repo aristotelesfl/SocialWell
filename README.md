@@ -38,7 +38,7 @@ Modelo laravel + vuejs3 padrão já configurado para utilização com quasar e t
 ## Clone
 
 ```bash
-git clone https://github.com/viniciumelo/socialwell.git
+git clone https://github.com/aristotelesfl/SocialWell.git
 ```
 
 ## Instalação
