@@ -3,6 +3,8 @@
 
 [Nosso site: www.socialwell.com.br](https://www.socialwell.com.br/).
 
+[Protótipo do projeto](https://miro.com/app/board/uXjVNK0yotw=/?share_link_id=271284827259)
+
 Uma plataforma para promover bem-estar digital e saúde mental, integrando diversas tecnologias. Em um mundo cada vez mais conectado, estamos comprometidos em ajudá-lo a navegar pelas águas digitais com equilíbrio e bem-estar.
 ![Mapa de Depressão](artigos-base/map-depressao.jpeg)
 
